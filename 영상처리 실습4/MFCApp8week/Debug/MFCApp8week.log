@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MFCApp8week.cpp
+  MFCApp8weekDoc.cpp
+C:\Users\user\source\repos\MFCApp8week\영상처리 실습4\MFCApp8week\MFCApp8weekDoc.cpp(77,37): warning C4244: '인수': 'ULONGLONG'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MFCApp8weekView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  코드를 생성하고 있습니다...
+  MFCApp8week.vcxproj -> C:\Users\user\source\repos\MFCApp8week\영상처리 실습4\Debug\MFCApp8week.exe
